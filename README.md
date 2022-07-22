@@ -26,8 +26,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ronnal-Zp/cardNftComponent)
-- Live Site URL: [Add live site URL here](https://ronnal-zp.github.io/cardNftComponent/)
+- Solution URL: [GitHub](https://github.com/Ronnal-Zp/cardNftComponent)
+- Live Site URL: [Web](https://ronnal-zp.github.io/cardNftComponent/)
 
 ## My process
 
